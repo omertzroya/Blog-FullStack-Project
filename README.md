@@ -1,9 +1,7 @@
-Certainly! Here's an updated README for your Node.js and Express project:
 
-```markdown
 # Blog Management System
 
-This project is a simple blog management system built with Node.js and Express. It allows users to create, edit, and delete blog posts. The backend is connected to a MongoDB database to store and retrieve blog posts.
+This project is a blog management system built with Node.js and Express. It allows users to create, edit, and delete blog posts.
 
 ## Getting Started
 
@@ -13,27 +11,27 @@ Make sure you have the following software installed on your machine:
 
 - [Node.js](https://nodejs.org/)
 - [npm](https://www.npmjs.com/) (Node Package Manager)
-- [MongoDB](https://www.mongodb.com/) (Make sure MongoDB is running on your local machine or update the connection string in `app.js`)
 
 ### Installation
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/blog-management-system.git
+   git clone https://github.com/omertzroya/Blog-FullStack-Project.git
    ```
 
 2. Install dependencies:
 
    ```bash
-   cd blog-management-system
-   npm install
+   cd //Your current path 
+   npm i 
    ```
 
 3. Start the server:
 
    ```bash
-   node app.js
+   node index.js
+   node server.js
    ```
 
    The server will start on [http://localhost:3000](http://localhost:3000).
@@ -57,14 +55,12 @@ Make sure you have the following software installed on your machine:
 - **Backend:**
   - Node.js
   - Express
-  - MongoDB (with Mongoose)
-
 - **Frontend:**
   - HTML
   - CSS
   - JavaScript
   - EJS (Embedded JavaScript) for templating
-
+  - 
 - **External Libraries:**
   - Axios for making HTTP requests
 
@@ -83,16 +79,29 @@ Make sure you have the following software installed on your machine:
 - `POST /api/posts/:id`: Update a post.
 - `GET /api/posts/delete/:id`: Delete a post.
 
-## Contributing
+ # Technology Used
+<div>
+  <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='JQUERY'/>
+  <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript'/>
+  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'/>
+  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'/>
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'/>
+  <img src='https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white' alt='Express'/>
+  <img src='https://img.shields.io/badge/Axios-35495E?style=for-the-badge&logo=axios&logoColor=white' alt='Axios'/>
+</div>
 
+
+
+## Contributing
 Feel free to contribute to the project by opening issues or creating pull requests.
 
 ## License
+![GitHub](https://img.shields.io/github/license/ItsAlexanderPopov/Simon-game)
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
-Make sure to replace placeholders like `your-username` and update the `LICENSE` file with the appropriate license information. Adjust the content as needed based on the specifics of your project.
+
+
+
 
 
 
