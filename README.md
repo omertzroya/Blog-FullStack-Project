@@ -90,6 +90,14 @@ Make sure you have the following software installed on your machine:
 - `POST /api/posts`: Create a new post.
 - `POST /api/posts/:id`: Update a post.
 - `GET /api/posts/delete/:id`: Delete a post.
+- 
+## Screenshots
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; text-align: center;">
+        <img src="Screenshots/Screenshots1.png" width="300" alt="Screenshot 1">
+       <img src="Screenshots/Screenshots2.png" width="300" alt="Screenshot 2">
+       
+</div>
 
 
 
