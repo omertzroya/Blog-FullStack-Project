@@ -36,6 +36,18 @@ Make sure you have the following software installed on your machine:
 
    The server will start on [http://localhost:3000](http://localhost:3000).
 
+
+ # Technology Used
+<div>
+  <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='JQUERY'/>
+  <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript'/>
+  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'/>
+  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'/>
+  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'/>
+  <img src='https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white' alt='Express'/>
+  <img src='https://img.shields.io/badge/Axios-35495E?style=for-the-badge&logo=axios&logoColor=white' alt='Axios'/>
+</div>
+
 ## Features
 
 1. **View All Posts:**
@@ -78,17 +90,6 @@ Make sure you have the following software installed on your machine:
 - `POST /api/posts`: Create a new post.
 - `POST /api/posts/:id`: Update a post.
 - `GET /api/posts/delete/:id`: Delete a post.
-
- # Technology Used
-<div>
-  <img src='https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white' alt='JQUERY'/>
-  <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' alt='JavaScript'/>
-  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' alt='CSS3'/>
-  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' alt='HTML5'/>
-  <img src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white' alt='Node.js'/>
-  <img src='https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white' alt='Express'/>
-  <img src='https://img.shields.io/badge/Axios-35495E?style=for-the-badge&logo=axios&logoColor=white' alt='Axios'/>
-</div>
 
 
 
